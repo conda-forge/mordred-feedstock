@@ -17,11 +17,11 @@ build:
 requirements:
   host:
     - pip
-    - python >=3.6
+    - python
   run:
     - networkx
     - numpy
-    - python >=3.6
+    - python
     - rdkit
     - six
     - tqdm 4.*
